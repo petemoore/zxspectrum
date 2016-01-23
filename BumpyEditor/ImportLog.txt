@@ -1,0 +1,38 @@
+root@1e8b14d1f06b:/mnt# ../maketzx bumpytape2.wav     
+
+-=[ MakeTZX v2.31 ]=- (C) 1998-2001 RAMSOFT, a ZX Spectrum demogroup.
+
+? Checking input file... ok!
+? RIFF Wave PCM (WAV), 32234577 samples.
+? Sampling rate: 48000 Hz (playing time: 11:11.553)
+
+Block  2 => F:255 - Speed: 78% - Line=    0, Length=    4, Pause=1ms.  
+Block  3 => F:255 - Speed: 76% - Chk=OK! (249), Length=    6, Pause=1ms.
+Block  4 => F:255 - Speed: 78% - Chk=OK! (252), Length=    4, Pause=1ms.
+Block  5 => Program: BPY EDITOR ! Header: Length=   17, Pause=93308024ms.
+Block  6 => ------------------- - Line=   30, Length=19763, Pause=31ms.
+Block  8 =>   Bytes: CODE       - Header: Length=   17, Pause=1016ms.  
+Block  9 => F:255 - Speed: 75% X Chk=ERR (215), Length=   41, Pause=1ms.
+Block 10 => ------------------- ! Chk=OK? (184), Length=18119, Pause=1747ms.
+Block 12 =>   Bytes: DOG MUCK   ! Header: Length=   17, Pause=1004ms.  
+Block 13 => ------------------- ! Chk=OK? ( 80), Length= 3752, Pause=1252ms.
+Block 14 => F:255 - Speed: 76% - Chk=OK! (241), Length=   14, Pause=1ms.
+Block 16 => F:255 - Speed: 78% F Chk=ERR (251), Length=    4, Pause=1ms.
+Block 17 =>   Bytes: EE         - Header: Length=   17, Pause=1021ms.  
+Block 18 => ------------------- - Start=55050, Length= 3377, Pause=1627ms.
+Block 19 => F:255 - Speed: 78% F Chk=ERR (251), Length=    4, Pause=1ms.
+Block 20 =>   Bytes: HORSE POOH ! Header: Length=   17, Pause=998ms.   
+Block 21 => ------------------- ! Start=55050, Length= 3752, Pause=12589ms.
+Block 22 => F:255 - Speed: 77% - Chk=OK! (250), Length=    6, Pause=1ms.
+Block 23 => F:255 - Speed: 76% - Chk=OK! (252), Length=    4, Pause=0ms.
+Block 24 => F:255 - Speed: 78% ! Chk=OK? (248), Length=    8, Pause=1ms.
+Block 25 =>   Bytes: FORTY FIVE - Header: Length=   17, Pause=1002ms.  
+Block 26 => ------------------- ! Start=55050, Length= 3752, Pause=52339ms.
+Block 27 =>   Bytes: CODE       - Header: Length=   17, Pause=1033ms.  
+Block 28 => F:127 - Speed: 100% F Chk=ERR ( 47), Length=17957, Pause=9ms.
+Block 29 => Program: BPY EDITOR - Header: Length=   17, Pause=1028ms.  
+Block 30 => ------------------- F Line=    0, Length= 1143, Pause=1ms. 
+Block 31 =>   Bytes: CODE       - Header: Length=   17, Pause=1036ms.  
+Block 32 => ------------------- - Start=47419, Length=18119, Pause=5931ms.
+                                                                       
+Done!
